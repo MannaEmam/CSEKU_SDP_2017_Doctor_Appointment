@@ -1,3 +1,5 @@
+# CSEKU_SDP_2017_Doctor_Appointment
+
 It's a CSEKU SDP 2017 Project
 
 
@@ -51,4 +53,4 @@ It is a website by which patients can create their account by signing up,so does
 By logging in as a patient, a user can get the list of the departments such as E.N.T,Neurology etc.If a user clicks in any of the departments he/she can see the list of the doctors specialized in that department
 And take the appointment of the preferred doctor .
 By logging in as a doctor, doctor can set his scheduled time.Doctors can see his pending patients and also give online prescription.
-# CSEKU_SDP_2017_Doctor_Appointment
+
